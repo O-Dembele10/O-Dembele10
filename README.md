@@ -15,4 +15,5 @@
 [ᴰⁱˢᶜᵒʳᵈ (-_-)](https://discord.gg/uYp4QCX93)
  
 [ˢᵀᴿᴬᵂ (ㆆ_ㆆ)](https://brntfries.straw.page/)  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎    ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [ᴬᵀᴬ₍^. .^₎⟆](https://brntfries.atabook.org/)
-<img width="100%" height="auto" alt="Download free png of PNG Black spider web lace ribbon style_ by Nunny about halloween, vintage halloween, halloween garland, spider web, and spider web png 15591435" src="https://github.com/user-attachments/assets/ae1d3981-e472-474a-b8e2-3bc22e944b69" />
+
+<img width="675" height="1200" alt="download (13)" src="https://github.com/user-attachments/assets/c3acb625-6c5c-4c7a-be17-f352187531d0" />
