@@ -5,7 +5,8 @@
 <p align="center">
 <img width="700" height="auto" alt="t (3) (1)" src="https://github.com/user-attachments/assets/2974343c-84f6-4a99-8426-71534dfa0e00" />
 
-<img width="500" alt="Untitled (29 7 x 21 cm) (1) (1)" src="https://github.com/user-attachments/assets/8589b5cb-9bfa-4df7-adfa-ee24ff972ea1" />
+<p align="right">
+<img width="400"  alt="Untitled (29 7 x 21 cm) (2) (1)" src="https://github.com/user-attachments/assets/3bfd36b6-6eee-4378-bb9c-a382f1385db1" />
 
 
 [ᴰⁱˢᶜᵒʳᵈ (-_-)](https://discord.gg/uYp4QCX93)
