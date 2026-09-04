@@ -1,0 +1,33 @@
+<svg xmlns="http://w3.org" viewBox="0 0 550 50" width="550" height="50">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 20px;
+      font-weight: bold;
+      fill: #24292e; /* Light mode text color */
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 3px solid #e51a1a; /* Ferrari Red Cursor */
+      width: 0;
+      animation: typing 4s steps(41, end) infinite, blink-caret .75s step-end infinite;
+    }
+
+    @keyframes typing {
+      0%, 10% { width: 0 }
+      70%, 90% { width: 100% }
+      100% { width: 0 }
+    }
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: #e51a1a; }
+    }
+    
+    /* Dark mode support for GitHub */
+    @media (prefers-color-scheme: dark) {
+      .text { fill: #f6f8fa; }
+    }
+  </style>
+  <g transform="translate(10, 30)">
+    <p class="text" xmlns="http://w3.org">We will say that I am a Ferrari under construction.</p>
+  </g>
+</svg>
