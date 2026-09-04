@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="420" alt="image" src="https://i.pinimg.com/1200x/23/8c/a9/238ca9fad8c36d82e33fc410642ff5c5.jpg" />
+  <img width="600" alt="image" src="https://i.pinimg.com/1200x/23/8c/a9/238ca9fad8c36d82e33fc410642ff5c5.jpg" />
 </p>
 
 [ᴰⁱˢᶜᵒʳᵈ (-_-)](https://discord.gg/uYp4QCX93)
