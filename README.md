@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="300%" alt="image" src="https://i.pinimg.com/736x/66/99/88/66998844c31e08a29d163481f91dbbf9.jpg" />
-</p>
+ <img width="736" height="414" alt="f2u w creds  ,  full in comments _" src="https://github.com/user-attachments/assets/a0673dae-8b9a-4bc3-87a4-7b15372282ff" />
+
 <p align="center">
 <img width="800" alt="t (2) (1)" src="https://github.com/user-attachments/assets/386124d5-82e9-4591-b59e-acdae199ffec" />
 
