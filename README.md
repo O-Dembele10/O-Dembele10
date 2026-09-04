@@ -7,6 +7,9 @@
 
 <p align="right">
 <img width="400"  alt="Untitled (29 7 x 21 cm) (4) (1)" src="https://github.com/user-attachments/assets/c1685acd-14cd-4e34-a7a7-8cb0669c1a6d" />
+<p align="center">
+  <img src="https://demolab.com" alt="We will say that I am a Ferrari under construction." />
+</p>
 
 
 [ᴰⁱˢᶜᵒʳᵈ (-_-)](https://discord.gg/uYp4QCX93)
