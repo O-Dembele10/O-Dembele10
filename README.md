@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="420" alt="image" src="<img width="1545" height="1999" alt="t" src="https://github.com/user-attachments/assets/89549d29-2d48-4aaa-9330-45a183f917f5" />
-" />
+  <img width="420" alt="image" src="https://i.pinimg.com/1200x/23/8c/a9/238ca9fad8c36d82e33fc410642ff5c5.jpg" />
 </p>
 
 [ᴰⁱˢᶜᵒʳᵈ (-_-)](https://discord.gg/uYp4QCX93)
