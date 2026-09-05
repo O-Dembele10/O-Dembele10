@@ -5,9 +5,6 @@
 <p align="center">
 <img width="700" height="auto" alt="t (3) (1)" src="https://github.com/user-attachments/assets/2974343c-84f6-4a99-8426-71534dfa0e00" />
  
-<p align="center">
-<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/ea0c6402-464b-4c47-9991-bcf36dcf94f8" />
-
 <p align="right">
 <img width="400"  alt="Untitled (29 7 x 21 cm) (4) (1)" src="https://github.com/user-attachments/assets/c1685acd-14cd-4e34-a7a7-8cb0669c1a6d" />
  
