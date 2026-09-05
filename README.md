@@ -5,9 +5,12 @@
 <p align="center">
 <img width="700" height="auto" alt="t (3) (1)" src="https://github.com/user-attachments/assets/2974343c-84f6-4a99-8426-71534dfa0e00" />
  
+<p align="left">
+ <img width="675" height="1200" alt="download (13) (1)" src="https://github.com/user-attachments/assets/3d19c07f-143f-4c22-a4c6-1fb2a0b18d11" />
+
 <p align="right">
 <img width="400"  alt="Untitled (29 7 x 21 cm) (4) (1)" src="https://github.com/user-attachments/assets/c1685acd-14cd-4e34-a7a7-8cb0669c1a6d" />
- 
+
  <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=763295&width=435&lines=We+will+say+that+I+am+a;Ferrari+under+construction+!" alt="Typing SVG" /></a>
 
