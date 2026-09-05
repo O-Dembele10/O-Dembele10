@@ -11,7 +11,7 @@
 <img width="400"  alt="Untitled (29 7 x 21 cm) (4) (1)" src="https://github.com/user-attachments/assets/c1685acd-14cd-4e34-a7a7-8cb0669c1a6d" />
  
 <p align="left">
- <img width="675" alt="download (13) (1)" src="https://github.com/user-attachments/assets/3d19c07f-143f-4c22-a4c6-1fb2a0b18d11" />
+ <img width="400" alt="download (13) (1)" src="https://github.com/user-attachments/assets/3d19c07f-143f-4c22-a4c6-1fb2a0b18d11" />
 
  <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=763295&width=435&lines=We+will+say+that+I+am+a;Ferrari+under+construction+!" alt="Typing SVG" /></a>
