@@ -9,7 +9,7 @@
  
   ![](https://komarev.com/ghpvc/?username=your-github-username&label=🐈‍⬛&color=800000&style=plastic)
 
-   <p align="center">
+   <p align="righ">
   [well damm ↑]
 
   
