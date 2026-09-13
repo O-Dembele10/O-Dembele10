@@ -7,7 +7,7 @@
 
  <p align="center">
  
-  ![](https://komarev.com/ghpvc/?username=your-github-username&label=🐈‍⬛&color=800000&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=o-dembele10&label=🐈‍⬛&color=800000&style=plastic)
 
    <p align="righ">
   [well damm ↑]
