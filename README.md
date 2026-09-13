@@ -27,7 +27,6 @@
   
 [ᴰⁱˢᶜᵒʳᵈ (-_-)](https://discord.gg/uYp4QCX93) ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎    ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎                    
 ‎[ˢᵀᴿᴬᵂ (ㆆ_ㆆ)](https://brntfries.straw.page/)
-
 ‎‎[ᴬᵀᴬ₍^. .^₎⟆](https://brntfries.atabook.org/)
 
 
