@@ -5,6 +5,10 @@
 <img width="100%" height="auto" alt="Screenshot 2026-09-12 10 42 18 PM" src="https://github.com/user-attachments/assets/a14bef41-d4ac-495f-ba02-9f198ddf1365" />
 
 
+ <div align="center">
+  
+![Profile Views](https://komarev.com)
+
 <p align="center">
 <img width="700" height="auto" alt="t (3) (1)" src="https://github.com/user-attachments/assets/2974343c-84f6-4a99-8426-71534dfa0e00" />
  
