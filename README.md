@@ -5,7 +5,7 @@
 <img width="100%" height="auto" alt="Screenshot 2026-09-12 10 42 18 PM" src="https://github.com/user-attachments/assets/a14bef41-d4ac-495f-ba02-9f198ddf1365" />
 
 
- <div align="center">
+ <p align="center">
  
   ![](https://komarev.com/ghpvc/?username=your-github-username&label=🐈‍⬛&color=800000&style=plastic)
 
@@ -27,6 +27,7 @@
   
 [ᴰⁱˢᶜᵒʳᵈ (-_-)](https://discord.gg/uYp4QCX93) ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎    ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎                    
 ‎[ˢᵀᴿᴬᵂ (ㆆ_ㆆ)](https://brntfries.straw.page/)
+
 ‎‎[ᴬᵀᴬ₍^. .^₎⟆](https://brntfries.atabook.org/)
 
 
