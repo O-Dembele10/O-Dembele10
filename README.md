@@ -9,8 +9,9 @@
  
   ![](https://komarev.com/ghpvc/?username=your-github-username&label=🐈‍⬛&color=800000&style=plastic)
 
-   <div align="center">
+   <p align="center">
   [well damm ↑]
+
   
 <p align="center">
 <img width="700" height="auto" alt="t (3) (1)" src="https://github.com/user-attachments/assets/2974343c-84f6-4a99-8426-71534dfa0e00" />
