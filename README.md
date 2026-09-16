@@ -1,15 +1,15 @@
 <p align="center">
 <img width="100%" height="auto" alt="download (16)" src="https://github.com/user-attachments/assets/6076de64-4f98-4c62-8df8-89360d8226a1" />
 
-<p align="left">
-<img width="300" alt="pony-town-@ Me, Rmk 1, s-ata-trot-4x" src="https://github.com/user-attachments/assets/b946453f-3cc9-473e-9d2a-cfb3f0c83b82" />
- <p align="center">
-<img width="300" alt="pony-town-@ Me, Rmk 1, s-ata-boop-4x" src="https://github.com/user-attachments/assets/5ed82a7e-9abc-4448-9270-503134d4efd1" />
- <p align="right">
-<img width="300" alt="pony-town-@ Me, Rmk 1, s-ata-dance-3-4x" src="https://github.com/user-attachments/assets/9982d407-22c2-4f1f-9937-ca35419e9d90" />
-
-
-
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/2fa1eb54-9465-4295-9ae8-8df356b1fc69" height="150" /></td>
+      <td><img src="https://github.com/user-attachments/assets/66bc2a8e-dc8d-4e4f-bb3f-84876b78ab04" height="150" /></td>
+      <td><img src="https://github.com/user-attachments/assets/deebc9d6-8f4a-4d71-8087-784fe4a8f9ed" height="150" /></td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
 <img width="400" alt="blinkiesCafe-15" src="https://github.com/user-attachments/assets/f79dbe7c-bab4-4f9f-8fe8-5eb7f2c8ee01" />
