@@ -2,13 +2,11 @@
 <img width="100%" height="auto" alt="download (16)" src="https://github.com/user-attachments/assets/6076de64-4f98-4c62-8df8-89360d8226a1" />
 
 <p align="center">
-  <table>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/deebc9d6-8f4a-4d71-8087-784fe4a8f9ed" height="600" /></td>
       <td><img src="https://github.com/user-attachments/assets/66bc2a8e-dc8d-4e4f-bb3f-84876b78ab04" height="600" /></td>
       <td><img src="https://github.com/user-attachments/assets/2fa1eb54-9465-4295-9ae8-8df356b1fc69" height="300" /></td>
     </tr>
-  </table>
 </p>
 
 <p align="center">
