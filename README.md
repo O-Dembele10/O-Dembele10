@@ -25,7 +25,7 @@
 
  <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=5A2727&width=435&lines=I+think+Wilf+passed+me+the+ball%2C;Shot%2C+scored.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=5A2727&center=true&vCenter=true&width=435&lines=I+think+Wilf+passed+me+the+ball%2C;Shot%2C+scored.)](https://git.io/typing-svg)
   
 [ˢᵀᴿᴬᵂ (ㆆ_ㆆ)](https://brntfries.straw.page/) 
 
