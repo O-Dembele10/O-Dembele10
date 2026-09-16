@@ -36,5 +36,7 @@
 [ᴬᵀᴬ₍^. .^₎⟆](https://brntfries.atabook.org/)
 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31puyefmthaukhg3q3stcg54lsou&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 <p align="center">
 <img width="100%" height="auto" alt="u mad" src="https://github.com/user-attachments/assets/9320c2ac-24b4-4d51-9b84-621a1f58f6bc" />
