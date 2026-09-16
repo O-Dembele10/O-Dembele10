@@ -23,7 +23,7 @@
 <p align="left">
 <img width="300"  alt="1002965779531493915" src="https://github.com/user-attachments/assets/90ece085-2733-42a7-84e6-b90d63f592c0" />
 
- <p align="center">
+ <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=5A2727&width=435&lines=I+think+Wilf+passed+me+the+ball%2C;Shot%2C+scored.)](https://git.io/typing-svg)
   
