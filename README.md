@@ -1,6 +1,14 @@
 <p align="center">
 <img width="100%" height="auto" alt="download (16)" src="https://github.com/user-attachments/assets/6076de64-4f98-4c62-8df8-89360d8226a1" />
 
+<p align="left">
+<img width="156" alt="pony-town-@ Me, Rmk 1, s-ata-trot-4x" src="https://github.com/user-attachments/assets/b946453f-3cc9-473e-9d2a-cfb3f0c83b82" />
+
+<p align="center">
+<img width="180" height="208" alt="pony-town-@ Me, Rmk 1, s-ata-boop-4x" src="https://github.com/user-attachments/assets/5ed82a7e-9abc-4448-9270-503134d4efd1" />
+
+
+
 <p align="center">
 <img width="400" alt="blinkiesCafe-15" src="https://github.com/user-attachments/assets/f79dbe7c-bab4-4f9f-8fe8-5eb7f2c8ee01" />
 
