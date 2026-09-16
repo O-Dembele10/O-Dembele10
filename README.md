@@ -23,7 +23,7 @@
 <p align="left">
 <img width="300"  alt="1002965779531493915" src="https://github.com/user-attachments/assets/90ece085-2733-42a7-84e6-b90d63f592c0" />
 
- <p align="right">
+ <p align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=5A2727&width=435&lines=I+think+Wilf+passed+me+the+ball%2C;Shot%2C+scored.)](https://git.io/typing-svg)
   
@@ -34,4 +34,4 @@
 
 
 <p align="center">
-<img width="100%" height="auto" alt="Untitled design (8) (1)" src="https://github.com/user-attachments/assets/6f89a975-0b6f-4308-92fc-8d82c87cdb42" />
+<img width="100%" height="auto" alt="u mad" src="https://github.com/user-attachments/assets/9320c2ac-24b4-4d51-9b84-621a1f58f6bc" />
