@@ -18,7 +18,7 @@
 
  
 <p align="right">
-<img width="500" alt="Untitled (29 7 x 21 cm) (8) (1)" src="https://github.com/user-attachments/assets/1fb32584-d2a3-4782-8cf8-495d370ea6f9" />
+<img width="300" alt="Untitled (29 7 x 21 cm) (8) (1)" src="https://github.com/user-attachments/assets/1fb32584-d2a3-4782-8cf8-495d370ea6f9" />
 
 
 <p align="left">
