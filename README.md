@@ -3,8 +3,7 @@
 
 <p align="center">
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/deebc9d6-8f4a-4d71-8087-784fe4a8f9ed" height="600" /></td>
-      <td><img src="https://github.com/user-attachments/assets/2fa1eb54-9465-4295-9ae8-8df356b1fc69" height="600" /></td>
+      <img width="300" alt="pony-town-@ Me, Rmk 1, s-ata-trot-4x (2)" src="https://github.com/user-attachments/assets/4d2bfb1c-77c5-465d-b882-d34814b98439" />
     </tr>
 </p>
 
