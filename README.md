@@ -18,10 +18,10 @@
 
  
 <p align="right">
-<img width="700"  alt="Untitled Design - 1 (1)" src="https://github.com/user-attachments/assets/ce5c5e64-f2bb-4893-b850-09248258eade" />
+<img width="700" alt="Untitled Design - 1 (1)" src="https://github.com/user-attachments/assets/ce5c5e64-f2bb-4893-b850-09248258eade" />
 
 <p align="left">
-<img width="300"  alt="1002965779531493915" src="https://github.com/user-attachments/assets/90ece085-2733-42a7-84e6-b90d63f592c0" />
+<img width="300" alt="1002965779531493915" src="https://github.com/user-attachments/assets/90ece085-2733-42a7-84e6-b90d63f592c0" />
 
  <div align="center">
   
