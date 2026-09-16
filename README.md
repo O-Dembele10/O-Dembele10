@@ -10,12 +10,12 @@
  
   ![](https://komarev.com/ghpvc/?username=o-dembele10&label=🐈‍⬛&color=800000&style=plastic)
 
-   <p align="righ">
-  [well damm ↑]
+   [well damm ↑]
 
   
 <p align="center">
-<img width="700" height="auto" alt="t (3) (1)" src="https://github.com/user-attachments/assets/2974343c-84f6-4a99-8426-71534dfa0e00" />
+<img width="500" alt="Untitled (29 7 x 21 cm) (7) (1)__fliter--dark-crimson-sepia__channel--red__mode--normal" src="https://github.com/user-attachments/assets/57e5bb91-f8a3-4293-993c-3fb647b0ad07" />
+
  
 <p align="right">
 <img width="400"  alt="Untitled (29 7 x 21 cm) (4) (1)" src="https://github.com/user-attachments/assets/c1685acd-14cd-4e34-a7a7-8cb0669c1a6d" />
