@@ -18,7 +18,7 @@
 
  
 <p align="right">
-<img width="500"  alt="Untitled Design - 1 (1)" src="https://github.com/user-attachments/assets/ce5c5e64-f2bb-4893-b850-09248258eade" />
+<img width="700"  alt="Untitled Design - 1 (1)" src="https://github.com/user-attachments/assets/ce5c5e64-f2bb-4893-b850-09248258eade" />
 
 <p align="left">
 <img width="200"  alt="unnamed" src="https://github.com/user-attachments/assets/4cbb89e7-2d86-4e71-a621-ec5d6d91d22f" />
