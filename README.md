@@ -21,10 +21,11 @@
 <img width="700"  alt="Untitled Design - 1 (1)" src="https://github.com/user-attachments/assets/ce5c5e64-f2bb-4893-b850-09248258eade" />
 
 <p align="left">
-<img width="200"  alt="unnamed" src="https://github.com/user-attachments/assets/4cbb89e7-2d86-4e71-a621-ec5d6d91d22f" />
+<img width="700"  alt="1002965779531493915" src="https://github.com/user-attachments/assets/90ece085-2733-42a7-84e6-b90d63f592c0" />
 
  <p align="right">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=763295&width=435&lines=We+will+say+that+I+am+a;Ferrari+under+construction+!" alt="Typing SVG" /></a>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=5A2727&width=435&lines=I+think+Wilf+passed+me+the+ball%2C;Shot%2C+scored.)](https://git.io/typing-svg)
   
 [ˢᵀᴿᴬᵂ (ㆆ_ㆆ)](https://brntfries.straw.page/) 
 
