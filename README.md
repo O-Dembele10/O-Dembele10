@@ -4,7 +4,8 @@
 <p align="center">
     <tr>
       <img width="300" alt="pony-town-@ Me, Rmk 1, s-ata-trot-4x (2)" src="https://github.com/user-attachments/assets/4d2bfb1c-77c5-465d-b882-d34814b98439" />
-    </tr>
+        <img width="300" alt="pony-town-@ Me, Rmk 1, s-ata-dance-3-4x" src="https://github.com/user-attachments/assets/da3ab760-ec15-4522-a7fc-b8bc5ad24fb3" />
+       </tr>
 </p>
 
 <p align="center">
