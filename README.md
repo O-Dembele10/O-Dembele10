@@ -14,7 +14,7 @@
 
   
 <p align="center">
-<img width="500" alt="Untitled (29 7 x 21 cm) (7) (1)__fliter--dark-crimson-sepia__channel--red__mode--normal" src="https://github.com/user-attachments/assets/57e5bb91-f8a3-4293-993c-3fb647b0ad07" />
+<img width="900" alt="Untitled (29 7 x 21 cm) (7) (1)__fliter--dark-crimson-sepia__channel--red__mode--normal" src="https://github.com/user-attachments/assets/57e5bb91-f8a3-4293-993c-3fb647b0ad07" />
 
  
 <p align="right">
@@ -26,9 +26,6 @@
  <p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=763295&width=435&lines=We+will+say+that+I+am+a;Ferrari+under+construction+!" alt="Typing SVG" /></a>
   
-[ᴰⁱˢᶜᵒʳᵈ (-_-)](https://discord.gg/uYp4QCX93)
-
-
 [ˢᵀᴿᴬᵂ (ㆆ_ㆆ)](https://brntfries.straw.page/) 
 
 
