@@ -18,8 +18,8 @@
 
  
 <p align="right">
-<img width="400"  alt="Untitled (29 7 x 21 cm) (4) (1)" src="https://github.com/user-attachments/assets/c1685acd-14cd-4e34-a7a7-8cb0669c1a6d" />
- 
+<img width="500"  alt="Untitled Design - 1 (1)" src="https://github.com/user-attachments/assets/ce5c5e64-f2bb-4893-b850-09248258eade" />
+
 <p align="left">
 <img width="200"  alt="unnamed" src="https://github.com/user-attachments/assets/4cbb89e7-2d86-4e71-a621-ec5d6d91d22f" />
 
