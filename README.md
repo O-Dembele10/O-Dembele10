@@ -2,7 +2,8 @@
 <img width="100%" height="auto" alt="download (16)" src="https://github.com/user-attachments/assets/6076de64-4f98-4c62-8df8-89360d8226a1" />
 
 <p align="center">
-<img width="700" alt="blinkiesCafe-gm" src="https://github.com/user-attachments/assets/4f933397-93e0-41c1-865a-73604a747457" />
+<img width="600" alt="blinkiesCafe-15" src="https://github.com/user-attachments/assets/f79dbe7c-bab4-4f9f-8fe8-5eb7f2c8ee01" />
+
 
  
  <p align="center">
