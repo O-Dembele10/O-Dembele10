@@ -10,8 +10,6 @@
  
   ![](https://komarev.com/ghpvc/?username=o-dembele10&label=🐈‍⬛&color=800000&style=plastic)
 
-   [well damm ↑]
-
   
 <p align="center">
 <img width="900" alt="Untitled (29 7 x 21 cm) (7) (1)__fliter--dark-crimson-sepia__channel--red__mode--normal" src="https://github.com/user-attachments/assets/57e5bb91-f8a3-4293-993c-3fb647b0ad07" />
