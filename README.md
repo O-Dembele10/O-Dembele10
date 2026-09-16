@@ -2,11 +2,7 @@
 <img width="100%" height="auto" alt="download (16)" src="https://github.com/user-attachments/assets/6076de64-4f98-4c62-8df8-89360d8226a1" />
 
 <p align="center">
-    <tr>
-      <img width="300" alt="pony-town-@ Me, Rmk 1, s-ata-trot-4x (2)" src="https://github.com/user-attachments/assets/4d2bfb1c-77c5-465d-b882-d34814b98439" />
-        <img width="300" alt="pony-town-@ Me, Rmk 1, s-ata-dance-3-4x" src="https://github.com/user-attachments/assets/da3ab760-ec15-4522-a7fc-b8bc5ad24fb3" />
-       </tr>
-</p>
+    <img width="200" alt="pony-town-@ Me, Rmk 1, s-ata-dance-3-4x" src="https://github.com/user-attachments/assets/b5372884-398b-4be2-89c4-31c7dca37498" />
 
 <p align="center">
 <img width="400" alt="blinkiesCafe-15" src="https://github.com/user-attachments/assets/f79dbe7c-bab4-4f9f-8fe8-5eb7f2c8ee01" />
