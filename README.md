@@ -1,5 +1,6 @@
 <p align="center">
-<img width="100%" height="auto" alt="download (16)" src="https://github.com/user-attachments/assets/6076de64-4f98-4c62-8df8-89360d8226a1" />
+<img width="100%" height="auto" alt="b4d6ebfa5d2717e938ef61331768604f" src="https://github.com/user-attachments/assets/0a40cb0a-7784-4a63-951c-b221da2623e6" />
+
 
 <p align="center">
     <img width="200" alt="pony-town-@ Me, Rmk 1, s-ata-dance-3-4x" src="https://github.com/user-attachments/assets/b5372884-398b-4be2-89c4-31c7dca37498" />
