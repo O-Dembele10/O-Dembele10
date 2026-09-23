@@ -10,19 +10,13 @@
 <img width="400" alt="blinkiesCafe-15" src="https://github.com/user-attachments/assets/f79dbe7c-bab4-4f9f-8fe8-5eb7f2c8ee01" />
 
 
- 
- <p align="center">
-<img width="1414" height="auto" alt="Untitled design (2)__fliter--teal-lightgreen__channel--red__mode--normal (1)" src="https://github.com/user-attachments/assets/1bbff6a4-8b12-4c71-bc8e-ef63bcc2679d" />
-
-
-
  <p align="center">
  
   ![](https://komarev.com/ghpvc/?username=o-dembele10&label=🐈‍⬛&color=800000&style=plastic)
 
   
 <p align="center">
-<img width="900" alt="Untitled (29 7 x 21 cm) (7) (1)__fliter--dark-crimson-sepia__channel--red__mode--normal" src="https://github.com/user-attachments/assets/57e5bb91-f8a3-4293-993c-3fb647b0ad07" />
+<img width="900" alt="Untitled design (2)__fliter--teal-lightgreen__channel--red__mode--normal (1)" src="https://github.com/user-attachments/assets/2e72af32-e05c-4fe4-9f6b-32b6de73b309" />
 
  
 <p align="right">
