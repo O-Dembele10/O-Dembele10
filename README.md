@@ -12,7 +12,8 @@
 
  
  <p align="center">
-<img width="100%" height="auto" alt="Screenshot 2026-09-12 10 42 18 PM" src="https://github.com/user-attachments/assets/a14bef41-d4ac-495f-ba02-9f198ddf1365" />
+<img width="1414" height="auto" alt="Untitled design (2)__fliter--teal-lightgreen__channel--red__mode--normal (1)" src="https://github.com/user-attachments/assets/1bbff6a4-8b12-4c71-bc8e-ef63bcc2679d" />
+
 
 
  <p align="center">
