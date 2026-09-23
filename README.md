@@ -8,7 +8,8 @@
     <img width="200" alt="pony-town-@ Me, Rmk 1, s-ata-dance-3-4x" src="https://github.com/user-attachments/assets/b5372884-398b-4be2-89c4-31c7dca37498" />
 
 <p align="center">
-<img width="400" alt="blinkiesCafe-15" src="https://github.com/user-attachments/assets/f79dbe7c-bab4-4f9f-8fe8-5eb7f2c8ee01" />
+<img width="600" alt="653357384-f79dbe7c-bab4-4f9f-8fe8-5eb7f2c8ee01__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/5bc34dc7-296d-4d72-8ba7-a6dbe059b832" />
+
 
 
  <p align="center">
@@ -21,7 +22,8 @@
 
  
 <p align="right">
-<img width="300" alt="Untitled (29 7 x 21 cm) (8) (1)" src="https://github.com/user-attachments/assets/1fb32584-d2a3-4782-8cf8-495d370ea6f9" />
+<img width="300" alt="653349271-1fb32584-d2a3-4782-8cf8-495d370ea6f9__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/1a4735cd-ae79-4f31-ae23-31f046fc7c91" />
+
 
 
 <p align="left">
