@@ -33,6 +33,9 @@
  <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7E0F0F&center=true&vCenter=true&width=435&lines=%22%E1%B4%B5+%E1%B5%88%E2%81%B1%E1%B5%88%E2%81%BF'%E1%B5%97+%E1%B5%8D%E2%81%B1%E1%B5%9B%E1%B5%89+%E1%B5%83+%E1%B5%88%E1%B5%83%E1%B5%90%E2%81%BF+%CA%B7%CA%B0%E1%B5%89%E2%81%BF+%E1%B4%B5+%CA%B7%E1%B5%83%CB%A2+%CA%B8%E1%B5%92%E1%B5%98%E2%81%BF%E1%B5%8D%2C;%E1%B5%83%E2%81%BF%E1%B5%88+%E1%B4%B5'%E1%B5%90+%CB%A2%E1%B5%98%CA%B3%E1%B5%89+%E1%B5%83%CB%A2+%CA%B0%E1%B5%89%CB%A1%CB%A1+%E1%B5%8D%E1%B5%92%E2%81%B1%E2%81%BF%E1%B5%8D+%E1%B5%97%E1%B5%92+%E1%B5%88%E1%B5%92+%CA%B7%CA%B0%E1%B5%83%E1%B5%97+;%E1%B4%B5+%CA%B7%E1%B5%83%E2%81%BF%E1%B5%97+%E1%B5%83%CB%A2+%E1%B5%83%E2%81%BF+%E1%B5%83%E1%B5%88%E1%B5%98%CB%A1%E1%B5%97.%22)](https://git.io/typing-svg)
+
+<img width="735" alt="990651249287483696__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/1161dab9-34a6-43a1-ad5d-07c2db54d0d0" />
+
   
 [ˢᵀᴿᴬᵂ (ㆆ_ㆆ)](https://brntfries.straw.page/) 
 
