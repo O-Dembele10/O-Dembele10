@@ -27,7 +27,8 @@
 
 
 <p align="left">
-<img width="300" alt="1002965779531493915" src="https://github.com/user-attachments/assets/90ece085-2733-42a7-84e6-b90d63f592c0" />
+<img width="390" alt="653346796-90ece085-2733-42a7-84e6-b90d63f592c0__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/9656fbcc-b79d-4a9d-9906-ba28dc420962" />
+
 
  <div align="center">
   
