@@ -5,7 +5,8 @@
 
 
 <p align="center">
-    <img width="200" alt="pony-town-@ Me, Rmk 1, s-ata-dance-3-4x" src="https://github.com/user-attachments/assets/b5372884-398b-4be2-89c4-31c7dca37498" />
+   <img width="160" alt="653373947-b5372884-398b-4be2-89c4-31c7dca37498__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/50e52e54-2206-419f-92e1-50adfde07d81" />
+
 
 <p align="center">
 <img width="600" alt="653357384-f79dbe7c-bab4-4f9f-8fe8-5eb7f2c8ee01__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/5bc34dc7-296d-4d72-8ba7-a6dbe059b832" />
