@@ -1,7 +1,7 @@
 <p align="center">
 <img width="100%" height="auto" alt="7881368095630955__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/97d5376b-cd40-4085-a508-c50858e80db3" />
 
-
+<p align="center">
 # DNI ENZO FANS
 
 <p align="center">
