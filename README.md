@@ -47,6 +47,8 @@
 
 [ᶜᵃʳʳᵈ₍^. .^₎⟆](https://brntfries.carrd.co/)
 
+[ᵍᵘⁿˢ.₍^. .^₎⟆](https://guns.lol/melancholichills)
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31puyefmthaukhg3q3stcg54lsou&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
