@@ -44,6 +44,9 @@
 
 [ᵍᵘⁿˢ.₍^. .^₎⟆](https://guns.lol/melancholichills)
 
+<p align="center">
+<img width="800" height="auto" alt="960463058047804634" src="https://github.com/user-attachments/assets/db7927f5-c545-4db9-8541-1f270234a189" />
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31puyefmthaukhg3q3stcg54lsou&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
