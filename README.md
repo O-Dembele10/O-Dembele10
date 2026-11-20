@@ -4,7 +4,7 @@
 
 
 <p align="left">
-<img width="736" height="auto" alt="super real me" src="https://github.com/user-attachments/assets/419347b5-25bb-4673-9969-73d455a6f378" />
+<img width="200" height="auto" alt="super real me" src="https://github.com/user-attachments/assets/419347b5-25bb-4673-9969-73d455a6f378" />
 
 
 <p align="center">
