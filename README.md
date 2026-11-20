@@ -17,8 +17,8 @@
   ![](https://komarev.com/ghpvc/?username=o-dembele10&label=🐈‍⬛&color=800000&style=plastic)
 
   
-<p align="center">
-<img width="900" alt="Untitled design (2)__fliter--teal-lightgreen__channel--red__mode--normal (1)" src="https://github.com/user-attachments/assets/2e72af32-e05c-4fe4-9f6b-32b6de73b309" />
+<p align="right">
+<img width="150" height="auto" alt="blinkiesCafe-Iz" src="https://github.com/user-attachments/assets/915b89fc-a4de-4ce2-917f-8e7f6ed12d1d" />
 
  
 <p align="right">
