@@ -30,7 +30,7 @@
 
 
  <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=F5AAF7&width=435&lines=YUNAH%2C+MINJU%2C+MOKA%2C;WONHEE%2C+IROHA+ILLIT;BILLYEON+GOYANGI;YUNAH%2C+MINJU%2C+MOKA;WONHEE%2C+IROHA%2C+ILLIT;DO.+THE.+DANCE!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=F5AAF7&center=true&vCenter=true&width=435&lines=YUNAH%2C+MINJU%2C+MOKA%2C;WONHEE%2C+IROHA+ILLIT;BILLYEON+GOYANGI;YUNAH%2C+MINJU%2C+MOKA;WONHEE%2C+IROHA%2C+ILLIT;DO.+THE.+DANCE!" alt="Typing SVG" /></a>
 
   
 [ˢᵀᴿᴬᵂ (ㆆ_ㆆ)](https://brntfries.straw.page/) 
