@@ -45,7 +45,7 @@
 [ᵍᵘⁿˢ.₍^. .^₎⟆](https://guns.lol/melancholichills)
 
 <p align="center">
-<img width="800" height="auto" alt="960463058047804634" src="https://github.com/user-attachments/assets/db7927f5-c545-4db9-8541-1f270234a189" />
+<img width="500" height="auto" alt="960463058047804634" src="https://github.com/user-attachments/assets/db7927f5-c545-4db9-8541-1f270234a189" />
 
 
 
