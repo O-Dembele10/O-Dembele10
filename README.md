@@ -18,8 +18,9 @@
 <img width="400" height="auto" alt="blinkiesCafe-Iz" src="https://github.com/user-attachments/assets/915b89fc-a4de-4ce2-917f-8e7f6ed12d1d" />
 
  
-<p align="right">
-<img width="300" alt="653349271-1fb32584-d2a3-4782-8cf8-495d370ea6f9__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/1a4735cd-ae79-4f31-ae23-31f046fc7c91" />
+<p align="center">
+<img width="1oo%" height="auto" alt="♡" src="https://github.com/user-attachments/assets/6528d6f7-3ff9-4553-b921-c3c9d8864613" />
+
 
 
 
