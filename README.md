@@ -1,7 +1,5 @@
 <p align="center">
-<img width="100%" height="auto" alt="7881368095630955__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/97d5376b-cd40-4085-a508-c50858e80db3" />
-
-<h1 align="center">D N I  E N Z O  F E R N A N D E Z  F A N S.</h1>
+<img width="666" height="375" alt="1083819466606675686" src="https://github.com/user-attachments/assets/6699fa95-2248-4840-aa03-d62bab743b06" />
 
 
 
