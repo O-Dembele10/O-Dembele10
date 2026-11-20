@@ -7,9 +7,6 @@
 <img width="200" height="auto" alt="super real me" src="https://github.com/user-attachments/assets/419347b5-25bb-4673-9969-73d455a6f378" />
 
 
-<p align="center">
-<img width="600" alt="653357384-f79dbe7c-bab4-4f9f-8fe8-5eb7f2c8ee01__fliter--teal-lightgreen__channel--red__mode--normal" src="https://github.com/user-attachments/assets/5bc34dc7-296d-4d72-8ba7-a6dbe059b832" />
-
 
 
  <p align="center">
@@ -18,7 +15,7 @@
 
   
 <p align="right">
-<img width="150" height="auto" alt="blinkiesCafe-Iz" src="https://github.com/user-attachments/assets/915b89fc-a4de-4ce2-917f-8e7f6ed12d1d" />
+<img width="400" height="auto" alt="blinkiesCafe-Iz" src="https://github.com/user-attachments/assets/915b89fc-a4de-4ce2-917f-8e7f6ed12d1d" />
 
  
 <p align="right">
