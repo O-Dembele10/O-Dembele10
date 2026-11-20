@@ -19,7 +19,7 @@
 
  
 <p align="center">
-<img width="1oo%" height="auto" alt="♡" src="https://github.com/user-attachments/assets/6528d6f7-3ff9-4553-b921-c3c9d8864613" />
+<img width="100%" height="auto" alt="♡" src="https://github.com/user-attachments/assets/6528d6f7-3ff9-4553-b921-c3c9d8864613" />
 
 
 
