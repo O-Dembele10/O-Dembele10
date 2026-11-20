@@ -24,7 +24,7 @@
 
 
 
-<p align="left">
+<p align="center">
 <img width="734" height="auto" alt="🎀✨🩵🪽" src="https://github.com/user-attachments/assets/7de66379-eba9-4e1e-8779-9ea95c45a8db" />
 
 
