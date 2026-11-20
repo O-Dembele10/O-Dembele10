@@ -3,8 +3,8 @@
 
 
 
-<p align="center">
- <img width="200" alt="653373947-b5372884-398b-4be2-89c4-31c7dca37498" src="https://github.com/user-attachments/assets/9fa27680-f513-4c31-b385-3dc422ee7daa" />
+<p align="left">
+<img width="736" height="auto" alt="super real me" src="https://github.com/user-attachments/assets/419347b5-25bb-4673-9969-73d455a6f378" />
 
 
 <p align="center">
